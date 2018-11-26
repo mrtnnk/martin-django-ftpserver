@@ -38,6 +38,7 @@ def setup_django():
                 'django_ftpserver',
             )
         )
+    # setup dango app
     django.setup()
     from django.apps import apps
     if not apps.ready:
