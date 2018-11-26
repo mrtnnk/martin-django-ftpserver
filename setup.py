@@ -19,9 +19,9 @@ setup(
     description="FTP server application for Django.",
     long_description=read('README.rst'),
     packages=find_packages(),
-    author='Shinya Okano',
-    author_email='tokibito@gmail.com',
-    url='https://github.com/tokibito/django-ftpserver',
+    author='Martin Nikolov',
+    author_email='mrtnnk004@gmail.com',
+    url='https://github.com/mrtnnk/martin-django-ftpserver',
     install_requires=['Django>=1.11', 'pyftpdlib', 'six'],
     extras_require={
         'develop': [

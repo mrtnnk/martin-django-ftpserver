@@ -25,8 +25,6 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-.. |build-status| image:: https://travis-ci.org/tokibito/django-ftpserver.svg?branch=master
-   :target: https://travis-ci.org/tokibito/django-ftpserver
 .. |docs| image:: https://readthedocs.org/projects/django-ftpserver/badge/?version=latest
    :target: https://readthedocs.org/projects/django-ftpserver/
 .. |pypi| image:: https://badge.fury.io/py/django-ftpserver.svg
